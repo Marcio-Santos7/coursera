@@ -1,0 +1,32 @@
+Bem vindo a Metodologia de Ciência de Dados 101
+
+Do problema para a Abordagem - Compreendendo os Negócios! Isso já lhe ocorreu antes? Você foi chamado para uma reunião pelo seu chefe
+que lhe deixou a par de uma importante tarefa com um prazo muito apertado que tem de ser respeitado. Vocês revisam todos os aspectos da tarefa
+para garantir que tudo foi considerado e a reunião termina com ambos confiantes que as coisas estão no caminho certo. 
+
+No entanto, naquela noite após passar algum tempo examinando os problemas em jogo você percebeu que necessitava fazer perguntas adicionais para que realmente possa finalizar a tarefa. 
+
+Infelizmente, seu chefe não estará disponível até a manhã seguinte. Agora, com o prazo final batendo a sua porta, você começa a ter uma sensação de mal-estar. Então, o que você faz? Você arrisca ir em frente ou para e busca por esclarecimento. 
+
+Metodologia de Ciência de Dados começa por gastar tempo buscando esclarecimento, para atingir o que pode ser entendido por compreender os negócios. Obter este entendimento está no início da metodologia porque tendo clareza em torno do problema a ser resolvido, lhe permite determinar quais dados serão usados para responder a questão central. 
+
+Rollins sugere que ter uma questão claramente definida é vital porque em última análise ela direciona a abordagem analítica necessária para endereçar a questão. 
+
+Muitas vezes, muitos esforços são feitos em responder o que as pessoas pensam ser a questão e enquanto os métodos usados para endereçar esta questão
+podem ser corretos, eles não ajudam a resolver o problema atual. Estabelecer uma questão claramente definida começa por entender a meta da pessoa que faz o questionamento. Por exemplo, se um dono do negócio pergunta: "Como podemos reduzir os custos para realizar uma atividade?" Precisamos entender, seria a meta aprimorar a eficiência da atividade? Ou seria aumentar a rentabilidade do negócio? Uma vez a meta esclarecida, a próxima peça do quebra-cabeça seria descobrir os objetivos que suportam essa meta. 
+
+Ao selecionar os objetivos, discussões estruturadas podem tomar lugar onde prioridades podem ser identificadas de modo que possam vir a organizar e planejar como atacar de aprendizagem supervisionada. Dependendo do problema, diferentes envolvidos deverão estar engajados na discussão para ajudar a determinar os requisitos e esclarecer questionamentos. 
+
+Agora, vamos ver um estudo de caso relacionado a aplicação de "Compreender os Negócios" No estudo de caso, a questão perguntada é: Qual a melhor maneira de alocar os limitados recursos para saúde, maximizando seu uso provendo um tratamento de qualidade? Esta pergunta se tornou um tema quente para um provedor de seguro de saúde americano. Uma vez que o financiamento público para readmissões estava caindo, esta companhia de seguros estava em risco tendo que cobrir a diferença, o que potencialmente aumentaria os custos para seus clientes. 
+
+Sabendo que um aumento nos custos dos seguros não seria popular, a companhia de seguros sentou-se com as autoridades de saúde da região
+e trouxe Cientistas de Dados da IBM para ver como a ciência de dados poderia ser aplicada para o problema em questão. Antes mesmo de começar a coletar os dados, as metas e objetivos precisam ser definidos. 
+
+Após passar algum tempo determinando as metas e objetivos, o time priorizou "readmissões de pacientes" como uma área efetiva para revisão. Com as metas e objetivos em mente, foi descoberto que aproximadamente 30% dos indivíduos que finalizaram um tratamento de reabilitação seriam readmitidos em um centro de reabilitação dentro de um ano; e que 50% seriam readmitidos dentro de cinco anos. Após revisar alguns registros, foi descoberto que pacientes com insuficiência cardíaca congestiva estavam no topo da lista de readmissões. 
+
+Foi determinado que um modelo de árvore de decisão poderia ser aplicado para revisar esse cenário, para determinar porque isto estava acontecendo. 
+
+Para obter a compreensão do negócio que guiaria o time de analytics na formulação e aplicação de seu projeto piloto, os Cientistas de Dados
+da IBM propuseram e disponibilizaram um workshop on-site para dar o ponta-pé inicial. O envolvimento do patrocinador chave do negócio ao longo do projeto foi crucial, ao qual o patrocinador: Definiu todas a direções Manteve-se engajado e proveu orientação. Garantiu o suporte necessário, quando foi solicitado. 
+
+Finalmente, 4 requisitos de negócio foram identificados para qualquer que seja o modelo a ser construído Nominalmente: Prever resultados de readmissões para os pacientes com Insuficiência Cardíaca Congestiva Prever risco de readmissões. Compreender a combinação de eventos que levam a prever os resultados Aplicar um processo de fácil compreensão para novos pacientes, em relação ao seu risco de readmissão. Isto finaliza a seção Compreendendo os Negócios deste curso. Obrigado por assistir!

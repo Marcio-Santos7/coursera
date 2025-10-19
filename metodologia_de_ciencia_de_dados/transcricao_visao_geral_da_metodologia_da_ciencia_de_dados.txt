@@ -1,0 +1,25 @@
+Bem-vindo à visão geral da metodologia da ciência de dados. 
+
+Depois de assistir a este vídeo, você poderá descrever o termo metodologia, relacionar a metodologia à ciência de dados e às contribuições de John Rollins à metodologia de dados, identificar os 10 estágios da metodologia de dados padrão e categorizar as perguntas dos 10 estágios da metodologia de dados padrão. 
+
+A ciência de dados é um domínio influente que combina análise estatística , experiência tecnológica e conhecimento de domínio para extrair informações valiosas de conjuntos de dados abrangentes. No entanto, apesar do recente aumento no poder de computação e do acesso mais fácil aos dados, muitas vezes não entendemos as perguntas feitas nem sabemos como aplicar os dados corretamente para resolver o problema em questão. 
+
+Usar uma metodologia ajuda a resolver esses problemas. O que é uma metodologia? Uma metodologia é um sistema de métodos usados em uma área específica de estudo. Uma metodologia é uma diretriz para as decisões que os pesquisadores devem tomar durante o processo científico. 
+
+No contexto da ciência de dados, a metodologia da ciência de dados é uma abordagem estruturada que orienta os cientistas de dados na solução de problemas complexos e na tomada de decisões baseadas em dados. 
+
+A metodologia da ciência de dados também inclui formulários de coleta de dados, estratégias de medição e comparações de métodos de análise de dados em relação a diferentes objetivos e situações de pesquisa. O uso de uma metodologia fornece a orientação prática necessária para conduzir pesquisas científicas com eficiência. 
+
+Muitas vezes, há a tentação de ignorar a metodologia e ir diretamente para as soluções. No entanto, recorrer às soluções atrapalha nossas melhores intenções para resolver problemas. 
+
+Em seguida, vamos explorar a metodologia relacionada à ciência de dados. A metodologia de ciência de dados discutida neste curso é uma metodologia descrita por John Rollins, um experiente cientista sênior de dados da IBM. Este curso se baseia em sua experiência profissional e em seus insights sobre a importância de seguir uma metodologia para obter resultados bem-sucedidos na ciência de dados. 
+
+Como metodologia geral, a metodologia da ciência de dados consiste nas 10 etapas a seguir. Compreensão de negócios, abordagem analítica, requisitos de dados, coleta de dados, compreensão de dados, preparação de dados , modelagem, avaliação, implantação e feedback. Fazer perguntas é a base do sucesso na ciência de dados. 
+
+As perguntas orientam cada estágio da metodologia da ciência de dados. 
+
+A metodologia da ciência de dados visa responder às 10 perguntas básicas a seguir, que se alinham às questões da metodologia de dados. Essas duas primeiras perguntas ajudam você a definir o problema e determinar qual abordagem usar. Você perguntará: qual é o problema que você está tentando resolver? Como você pode usar dados para responder à pergunta? 
+
+Você usará as próximas quatro perguntas para ajudá-lo a se organizar em torno dos dados. Você perguntará: de quais dados você precisa para responder à pergunta, de onde vem a fonte de dados e como você receberá os dados? Os dados que você coleta representam o problema a ser resolvido e que trabalho adicional é necessário para manipular e trabalhar com os dados?
+
+Em seguida, você usará essas quatro perguntas finais para validar sua abordagem e design final para análise contínua. Você perguntará: ao aplicar visualizações de dados, você vê respostas que abordam o problema comercial? O modelo de dados responde à pergunta comercial inicial ou você precisa ajustar os dados? Você pode colocar o modelo em prática? Você consegue obter feedback construtivo dos dados e das partes interessadas para responder à pergunta comercial? Neste vídeo, você aprendeu que a metodologia da ciência de dados orienta os cientistas de dados na solução de problemas complexos com dados. Uma metodologia também inclui formulários de coleta de dados, estratégias de medição e comparações de métodos de análise de dados em relação a diferentes objetivos e situações de pesquisa. Como metodologia científica geral, a metodologia de dados consiste nos 10 estágios a seguir. Compreensão de negócios, abordagem analítica, requisitos de dados, coleta de dados, compreensão de dados, preparação de dados , modelagem, avaliação, implantação e feedback. As 10 perguntas estão alinhadas com a definição do problema comercial, a determinação de uma abordagem, a organização dos dados e a validação da abordagem para o design final dos dados.
