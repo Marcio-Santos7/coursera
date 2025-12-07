@@ -1,0 +1,38 @@
+Bem vindo a Metodologia de Ciência de Dados 101
+
+Do problema para a Abordagem - Abordagem Analítica! Selecionar a abordagem analítica correta depende da pergunta a ser questionada. 
+
+A abordagem envolve buscar esclarecimento da pessoa que está questionando, e assim ser capaz de escolher o caminho ou abordagem mais apropriados. 
+
+Neste vídeo veremos como o segundo estágio da metodologia de ciência de dados é aplicada. 
+
+Uma vez que o problema a ser endereçado é definido, a abordagem analítica apropriada para o problema é selecionada dentro do contexto dos requisitos do negócio. Este é o segundo estágio da metodologia de ciência de dados. 
+
+Uma vez estabelecida uma sólida compreensão sobre a questão, a abordagem analítica pode ser selecionada. Isso significa identificar quais tipos de padrões
+serão necessários para endereçar a questão com muita eficiência. 
+
+Se a questão é determinar probabilidades de uma ação, então um modelo preditivo deve ser usado. 
+
+Se a questão é mostrar relacionamentos, uma abordagem descritiva pode ser necessária. Esta poderia ser uma onde se observaria grupos de atividades similares baseadas em eventos e nossas preferências. 
+
+Análise estatística se aplica a problemas que requerem contagens. 
+
+Por exemplo, se a questão requer uma resposta sim/não então uma abordagem classificatória para prever uma resposta poderia ser adequada. 
+
+Aprendizado de Máquina é um campo de estudo que prove a computadores a habilidade de aprender sem ser explicitamente programado. 
+
+Aprendizado de Máquina pode ser usado para identificar relacionamentos e tendências em dados que de outro modo não seriam acessíveis ou identificáveis. 
+
+No caso em que a questão é aprender sobre o comportamento humano, então uma resposta apropriada seria usar abordagens de Clustering Association. 
+
+Agora, vejamos o estudo de caso relacionado a aplicação da Abordagem Analítica. 
+
+Para o estudo de caso, um modelo de classificação de árvore de decisão foi usado para identificar a combinação das condições que levariam a cada resultado dos pacientes. Nessa abordagem, examinando as variáveis em cada nó em cada um dos caminhos para cada folha levou a um valor limiar respectivo. Isso significa que a árvore de decisão classificatória prove a previsão do resultado, assim como a probabilidade desse resultado, com base na proporção do resultado dominante, sim ou não, em cada grupo. 
+
+Desta informação, os analistas podem obter o risco de admissão, ou a probabilidade de um sim para cada paciente. Se o resultado dominante for sim, então o risco é simplesmente a proporção de pacientes sim na folha. Se for não, então o risco é 1 menos a proporção de pacientes não na folha. 
+
+Um modelo de classificação de árvore de decisão é de fácil compreensão e aplicação para leigos para acertar o risco de readmissões para novos pacientes. Clínicos podem facilmente ver quais condições fazem com que pacientes sejam marcados como alto-risco e múltiplos modelos podem ser construídos e aplicados em vários pontos durante a estadia hospitalar. 
+
+Isto prove uma imagem viva do risco do paciente e como está evoluindo com os vários tratamentos aplicados. Por estas razões, uma abordagem classificatória de árvore de decisão foi escolhida para construir o modelo para readmissões em Insuficiência Cardíaca Congestiva. 
+
+Isto finaliza a seção sobre Abordagem Analítica deste curso. Obrigado por assistir!
